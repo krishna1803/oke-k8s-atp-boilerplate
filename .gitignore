@@ -8,7 +8,6 @@ server.cert
 server.key
 
 .terraform
-terraform/*.tfvars
 terraform/*.tfstate
 terraform/*.tfstate.backup
 terraform/TF_VARS.sh
